@@ -1,7 +1,6 @@
-# A blank Mongoose OS app
+# Mongoose OS app vacio con AWS
 
 ## Overview
 
-This is an empty app, serves as a skeleton for building Mongoose OS
-apps from scratch.
+Esta es un esqueleto para crear apps de Mongoose OS
 
